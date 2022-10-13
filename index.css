@@ -25,6 +25,10 @@ nav {
     color: #FFFFFF;
 }
 
+a:hover {
+    text-decoration: underline;
+}
+
 .order-button {
     background-color: #C54430 !important;
 }
